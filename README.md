@@ -4,9 +4,12 @@ A simple Spring Boot REST API for managing books.
 
 ## Endpoints
 
- **GET** `/books`: Retrieve all books.
+ **GET** `/books`: Retrieve all books
+ 
  **POST** `/books`: Create a new book.
+ 
 **PUT** `/books/{bookId}`: Update a book.
+
  **DELETE** `/books/{bookId}`: Delete a book.
 
 
